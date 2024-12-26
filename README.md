@@ -18,9 +18,9 @@
 
 可以选择$5、$10、$20三种金额。建议使用虚拟信用卡付款，可以用Fomepay卡来充值，有多个卡头可选，我用的是559666这个卡头。
 
-[点击获取信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[点击获取信用卡](https://bit.ly/bewildcard)
 
-**邀请码**：Q3DD80
+**邀请码**：ACCPAY
 
 ![image](https://github.com/fwlrshll/ULTRA-MOBILE/assets/169964305/2178fcdc-ba01-4024-8d52-8a91a15741ff)
 
